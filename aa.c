@@ -3,5 +3,5 @@
 
 int main ()
 {
-    printf("%d",a);
+    printf("A: %d",a);
 }
